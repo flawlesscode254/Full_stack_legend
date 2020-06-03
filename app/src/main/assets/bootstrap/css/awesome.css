@@ -1,0 +1,105 @@
+.a{
+    color: #ef3331;
+}
+.b{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 26px;
+    color: #238aff;
+}
+.d{
+    color: #2882ff;
+    font-size: 40px;
+}
+.h1{
+    color: #238aff;
+}
+.brown{
+}
+
+.name{
+    padding: 15px;
+    border-radius: 22px;
+    border-color: #076cde;
+    width: 100%;
+    border-width: 4px;
+}
+.semile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.show{
+    padding: 15px;
+    border-radius: 22px;
+    border-color: #b435e2;
+    width: 100%;
+}
+.spanner{
+    color: #ff45e5;
+}
+.f{
+    color: #141aff;
+}
+.weed{
+    border-color: #141aff;
+    border-radius: 25px;
+    border-left-width: 10px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+}
+.one{
+    background-color: #deedee;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.two{
+    font-weight: bold;
+    font-size: 24px;
+
+}
+.three{
+    image-resolution: from-image;
+    border-image-width: 30px;
+}
+.six{
+    background-image: url("im/sed.png");
+    background-size: cover;
+    height: 50vh;
+    padding-right: 50px;
+}
+.des{
+    text-align: center;
+    font-size: 37px;
+}
+.save{
+    background-color: #d7e0dd;
+    border-radius: 25px;
+    padding: 10px;
+}
+.ted{
+    background-image: url("im/wed.png");
+}
+.g{
+    background-image: url("im/dan.jpg");
+    height: 113vh;
+}
+.quote{
+    background-color: #e9b5ff;
+    padding: 10px;
+    border-radius: 25px;
+}
+.q{
+    text-align: center;
+    color: #ff3975;
+    padding-top: 20px;
+    font-family: Candara;
+    background-color: rgba(171, 219, 219, 0.6);
+}
+.m{
+    background-image: url("im/dan.jpg");
+    background-size: cover;
+}
+.z{
+    animation-delay: 300ms;
+}
